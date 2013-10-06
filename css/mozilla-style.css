@@ -209,12 +209,7 @@ a:active {
   background-image: url("icn-comment.png"); 
 }
 body{
-	background: url(../colors/bg-sand.png) ;
-	background-position: center top;
-    background-repeat: repeat-x;
-	background-color: #F5F1E8;
-	padding: 0 0 0 50px;
-	color: #333333;
+{border-top:2px solid #fff;background:#f5f1e8 url(http://mozilla.de/bg-sand-1.png) repeat;background:url(http://mozilla.de/bg-gradient-sand-1.png) repeat-x 0 0,url(http://mozilla.de/bg-sand-1.png) repeat 0 0,#f5f1e8; min-width:1024px;position:absolute;width:100%;z-index:-1}
     font: 16px/1.5 Georgia,Times,"Times New Roman",serif;
     word-wrap: break-word;
 }
