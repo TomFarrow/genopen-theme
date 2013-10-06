@@ -10,7 +10,7 @@ core = 7.x
 stylesheets[all][] = css/mozilla-style.css
 stylesheets[all][] = assets/css/responsive-min.css
 stylesheets[all][] = assets/css/home-min.css
-
+stylesheets[all][] = http://mozorg.cdn.mozilla.net/media/css/tabzilla-min.css
 
 regions[header] = Header
 regions[help] = Help

@@ -33,7 +33,7 @@
 				<?php endif; ?>
 			</div>
 				<!---end side title and slogan -->
-			<a id="tabzilla" href="http://www.mozilla.org/"><div ID="top_mozilla" class="span2"></div></a>	
+			<a href="/en-US/" id="tabzilla">mozilla</a>	
 				
 		</div>
 	<?php if ($main_menu): ?>
