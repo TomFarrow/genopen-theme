@@ -7,6 +7,7 @@ Tags: two-columns, right-sidebar, fixed-width, responsive, adaptive-layout, cust
 
 /* @Fonts *********/
 /* Regular */
+@import url("http://mozorg.cdn.mozilla.net/media/css/tabzilla-min.css");
 @font-face {
   font-family: "omOpenSansRegular";
   src: url("../css/fonts/OpenSans-Regular-webfont.eot");
