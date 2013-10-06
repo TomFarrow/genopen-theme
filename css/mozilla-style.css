@@ -455,3 +455,21 @@ footer{
 	background-repeat: no-repeat;
 	overflow: hidden;
 }
+
+/* Put admin-menu at bottom of the page */
+#admin-menu {
+  position: fixed;
+  bottom: 0;
+  top: auto;
+}
+#admin-menu li {
+  position: relative;
+}
+/* First level submenus (pop out vertically above the admin menu strip) */
+#admin-menu li ul {
+  bottom: 20px;
+}
+/* 2nd level submenus (pop out horizontally) */
+#admin-menu li ul ul {
+  bottom: 0px;
+}
